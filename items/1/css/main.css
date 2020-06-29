@@ -135,11 +135,12 @@
     .pix-light-black { color: #333; }
     .pix-black-gray-dark { color: #444; }
     .pix-black-gray { color: #666; }
-    .pix-black-gray-light { color: #888; }
+    .pix-black-gray-light { color: #888; text-align: justify;}
+    .pix-black-gray-light-2 { color: #888;}
 
     .pix-white { color: #fff; }
     .pix-light-white { color: #ddd; }
-    .pix-slight-white { color: #bbb; }
+    .pix-slight-white { color: #bbb; text-align: justify; padding-right: 2%;}
     .pix-gray { color: #999; }
     .pix-light-gray { color: #aaa; }
 
@@ -961,4 +962,7 @@ span.geeks-buddy-logo {
     top: 10px;
     position: relative;
     font-family: 'Montserrat', sans-serif; 
+}
+.minh65{
+    min-height: 65px;
 }
